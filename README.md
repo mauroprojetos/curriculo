@@ -10,6 +10,12 @@ Na área de TI possuo uma experiência de mais de 5 anos.
 
 **2. HABILIDADES**
 
+(Sistemas Operacionais)
+
+- Windows
+- Linux (Debian, Ubuntu, Fedora)
+- Mac OS
+
 (Front-End)
 
 - HTML5
