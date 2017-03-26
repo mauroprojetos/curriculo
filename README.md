@@ -25,8 +25,9 @@ Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em admi
 (Redes/Servidores/Infra)
 
 - Debian Server, Ubuntu Server
-- TCP/IP, Apache2, Virtual Host, Certificado SSL, HTTP, FTP, Squid, DHCP Server, DNS Server, Samba, Openfire Server, Nagios, OCS-Inventory, Sarg, iptables, rsync, OpenVPN, MySQL
-- Virtualização: Xen, VMware, Proxmox ,
+- Protocolos de Rede: HTTP, HTTPS, SSL, SSH, FTP, IMAP, POP3, DNS, DHCP, NTP, SMB
+- TCP/IP, Apache2, Virtual Host, Certificado Digital, FTP Server, Squid, DHCP Server, DNS Server, Samba, Openfire Server, Nagios, OCS-Inventory, Sarg, iptables, rsync, OpenVPN, MySQL
+- Virtualização: Xen, VMware, Proxmox
 - Shell Script
 
 **3. FORMAÇÃO**
