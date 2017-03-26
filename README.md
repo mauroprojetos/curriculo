@@ -44,7 +44,6 @@ Universidade Estácio de Sá (Redes de Computadores)
 
 Administração do parque de TI e desenvolvimento de práticas e soluções voltadas para um melhor desempenho dos funcionários.
 
-
 Tarefas exercidas:
 
 - Administrar Servidores GNU/Linux (Ubuntu, Debian)
