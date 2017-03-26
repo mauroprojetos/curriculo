@@ -1,5 +1,6 @@
-Olá, me chamo Olivério Neto! Nordestino, pernambucano, recifense de 26 anos. ;)
-Site pessoal: https://oliverio.eti.br
+Olá, me chamo Olivério Neto! Nordestino, pernambucano, recifense de 26 anos. ;)  
+Site pessoal: https://oliverio.eti.br  
+E-mail: contato@oliverio.eti.br
 
 **1. OBJETIVO**
 
