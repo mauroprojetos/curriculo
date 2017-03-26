@@ -2,57 +2,34 @@ Olá, me chamo Olivério Neto! Nordestino, pernambucano, recifense de 26 anos. ;
 
 **1. OBJETIVO**
 
-De forma comprometida, responsável e trabalhando em equipe, estou preparado para contribuir com a empresa à alcançar os objetivos. 
-
-Estou há 2 anos focado em assuntos relacionados a produtividade e gerenciamento de tempo, usando ferramentas como Evernote, Wunderlist, Trello e metodologias ágeis como Scrum. 
-
-Na área de TI possuo uma experiência de mais de 5 anos.
+Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em administração de redes e servidores GNU/Linux. Atualmente, minha paixão é o Front-End. Também utilizo a metodologia GTD com foco em produtividade e melhor gerenciamento de tempo. Já em trabalho com equipe tenho experiência com Scrum.
 
 **2. HABILIDADES**
 
 (Sistemas Operacionais)
 
-- Windows
-- Linux (Debian, Ubuntu, Fedora)
-- Mac OS
+- Windows, Linux (Debian, Ubuntu, Fedora), Mac OS
 
 (Front-End)
 
-- HTML5
-- CSS3
-- SEO
-- jQuery
-- Bootstrap
-- Gulp
-- Sass
-- Bower
-- GitHub
-
-(Back-End)
-
-- WordPress
-- PHP
+- HTML5, Web Semântica, CSS3, JavaScript, jQuery, SEO
+- Frameworks CSS: BootStrap, Materialize, Foundation
+- Pré-processadores: Sass, Less
+- Automatizador de tarefas: Gulp
+- Gerenciador de pacotes: npm, Bower, apt
+- Controle de versão: GitHub
+- Servidor: Linux, SSH, SCP, Certificado Digital (SSL), HTTP, Docker, VPS, CloudFlare, cPanel, Zona de DNS
+- CMS: WordPress (desenvolvimento de temas)
 
 (Redes/Servidores/Infra)
 
+- Debian Server, Ubuntu Server
+- TCP/IP, Apache2, Virtual Host, Certificado SSL, HTTP, FTP, Squid, DHCP Server, DNS Server, Samba, Openfire Server, Nagios, OCS-Inventory, Sarg, iptables, rsync, OpenVPN, MySQL 
 - Shell Script
-- Docker
-- Apache
-- Nagios
-- Samba
-- Squid
-- DHCP
-- DNS
-- FTP
-- Firewall
-- Openfire
-- Sarg
-- rsync
-- OCS-Inventory
 
 **3. FORMAÇÃO**
 
-Universidade Salgado de Oliveira – Universo (Redes de Computadores)
+Universidade Estácio de Sá (Redes de Computadores)
 
 **4. EXPERIÊNCIA PROFISSIONAL**
 
@@ -67,7 +44,7 @@ Tarefas exercidas:
 - Infra-estrutura da rede local (Switch's, Roteadores, Cabeamento)
 - Storage Iomega px6-300d 18TB em RAID 5.
 - Desenvolvimento de Shell Scripts com condições de backup (servidor de arquivos, sites, banco de dados)
-- Administração, manutenção, segurança e backup dos sites WordPress;
+- Desenvolvimento, administração, manutenção, segurança e backup dos sites WordPress;
 
 Sistema operacionais: GNU/Linux, Windows 10, MacOS
 
