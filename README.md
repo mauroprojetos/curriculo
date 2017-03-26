@@ -2,7 +2,7 @@ Olá, me chamo Olivério Neto! Nordestino, pernambucano, recifense de 26 anos. ;
 
 **1. OBJETIVO**
 
-Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em administração de redes e servidores GNU/Linux. Atualmente, minha paixão é o Front-End. Também utilizo a metodologia GTD com foco em produtividade e melhor gerenciamento de tempo. Já em trabalho com equipe tenho experiência com Scrum.
+Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em administração de redes e servidores GNU/Linux. Também utilizo a metodologia GTD com foco em produtividade e melhor gerenciamento de tempo. Já em trabalho com equipe tenho experiência com Scrum.
 
 **2. HABILIDADES**
 
@@ -20,11 +20,13 @@ Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em admi
 - Controle de versão: GitHub
 - Servidor: Linux, SSH, SCP, Certificado Digital (SSL), HTTP, Docker, VPS, CloudFlare, cPanel, Zona de DNS
 - CMS: WordPress (desenvolvimento de temas)
+- Conhecimento suficiente em PHP para manutenção de sistemas.
 
 (Redes/Servidores/Infra)
 
 - Debian Server, Ubuntu Server
-- TCP/IP, Apache2, Virtual Host, Certificado SSL, HTTP, FTP, Squid, DHCP Server, DNS Server, Samba, Openfire Server, Nagios, OCS-Inventory, Sarg, iptables, rsync, OpenVPN, MySQL 
+- TCP/IP, Apache2, Virtual Host, Certificado SSL, HTTP, FTP, Squid, DHCP Server, DNS Server, Samba, Openfire Server, Nagios, OCS-Inventory, Sarg, iptables, rsync, OpenVPN, MySQL
+- Virtualização: Xen, VMware, Proxmox ,
 - Shell Script
 
 **3. FORMAÇÃO**
