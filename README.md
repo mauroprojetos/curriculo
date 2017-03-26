@@ -14,8 +14,8 @@ Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em admi
 
 (Front-End)
 
-- HTML5, Web Semântica, CSS3, JavaScript, jQuery, SEO
-- Frameworks CSS: BootStrap, Materialize, Foundation
+- HTML5, CSS3, JavaScript, jQuery, SEO
+- Frameworks CSS: Bootstrap, Materialize, Foundation
 - Bibliotecas JS: Vuejs
 - Pré-processadores: Sass, Less
 - Automatizador de tarefas: Gulp
