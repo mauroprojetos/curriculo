@@ -2,7 +2,7 @@ Olá, me chamo Olivério Neto! Nordestino, pernambucano, recifense de 26 anos. ;
 Site pessoal: https://oliverio.eti.br  
 E-mail: contato@oliverio.eti.br
 
-**1. OBJETIVO**
+**1. Apresentação**
 
 Sou usuário Linux há mais de 10 anos (2006) com experiência de 4 anos em administração de redes e servidores GNU/Linux. Também utilizo a metodologia GTD com foco em produtividade e melhor gerenciamento de tempo. Já em trabalho com equipe tenho experiência com Scrum.
 
